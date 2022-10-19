@@ -1,0 +1,10 @@
+{
+
+
+      "IP":"BandmashSMP8.aternos.me"
+      "Port:"52090" 
+      "name":"AFKbot"
+
+
+}          
+
